@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Infojo</string>
+    <string name="textview_2">TextView</string>
+    <string name="textView_2">Нет информации</string>
+</resources>
